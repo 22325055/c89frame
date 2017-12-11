@@ -1,0 +1,27 @@
+{
+    "name": "22325055/c89frame",
+    "description": "c89frame",
+    "type": "project",
+    "authors": [
+        {
+            "name": "kjun",
+            "email": "1441357891@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "filp/whoops": "^2.0@dev"
+    },
+    "autoload":{
+        "files":[
+            "system/helper.php"
+        ],
+        "psr-4":{
+            "kuangjiaming\\":"kuangjiaming\\",
+            "app\\":"app\\",
+            "system\\":"system\\"
+
+
+        }
+    }
+}
