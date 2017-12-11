@@ -76,6 +76,11 @@
             <path>
               <item name="myframe" type="b2602c69:ProjectViewProjectNode" />
               <item name="myframe" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="myframe" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myframe" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="kuangjiaming" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
@@ -170,12 +175,12 @@
       <workItem from="1512793920355" duration="18684000" />
       <workItem from="1512888285416" duration="2601000" />
       <workItem from="1512905589082" duration="2246000" />
-      <workItem from="1512950932042" duration="3498000" />
+      <workItem from="1512950932042" duration="4073000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="95079000" />
+    <option name="totallyTimeSpent" value="95654000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
